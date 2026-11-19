@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "workflows": [
+    {
+      "id": "consultar-catalogo",
+      "name": "Consultar catálogo",
+      "description": "Consultar arreglos, precios y disponibilidad pública de demostración.",
+      "endpoint": "/api/catalogo",
+      "method": "GET",
+      "input": {}
+    },
+    {
+      "id": "consultar-franjas",
+      "name": "Consultar franjas de entrega",
+      "description": "Consultar las franjas públicas de hoy y el intervalo permitido.",
+      "endpoint": "/api/disponibilidad",
+      "method": "GET",
+      "input": {}
+    }
+  ]
+}

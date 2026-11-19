@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound() { return <main id="contenido" className="page-shell"><div className="page-title"><p className="eyebrow">Pétalo Norte</p><h1>Esta página no está en la mesa.</h1><p>Puedes volver al inicio o explorar los arreglos.</p></div><div className="action-row"><Link className="button" href="/">Inicio</Link><Link className="text-link" href="/catalogo">Ver catálogo</Link></div></main>; }

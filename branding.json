@@ -1,0 +1,1026 @@
+{
+  "primaryColor": "#7042A6",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#EEE8F5",
+  "textColor": "#302139",
+  "accentColor": "#7042A6",
+  "fontHeading": "Bricolage Grotesque",
+  "fontBody": "Source Sans 3",
+  "borderRadius": "0.5rem",
+  "logoText": "Pétalo Norte",
+  "logoImageUrl": null,
+  "tone": "trustworthy",
+  "brandbook": {
+    "version": 1,
+    "origin": "proposed",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1,
+    "positioning": "Floristería ficticia de demostración en Medellín para elegir flores y una entrega con claridad. Tres arreglos de ejemplo, precios visibles y pedidos realmente guardados como demostraciones, sin pagos ni cumplimiento real.",
+    "voice": "Cálida, directa y en español. Nombrar arreglos, cantidades, franjas y resultados sin exageraciones ni promesas. Usar una sola advertencia de negocio ficticio por página y explicar conflictos con acciones concretas, conservando siempre la elección del visitante.",
+    "motif": "La mesa de envoltura: un campo lavanda con pliegues SVG conectados y un borde inferior sólido donde se encuentran arreglo, etiqueta y decisión. Los tres ramos son ilustraciones vectoriales propias con especies y papeles diferenciados; el motivo continúa en selección, revisión, confirmación y panel sin fingir fotografía.",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    ],
+    "colors": [
+      {
+        "role": "background",
+        "name": "Lavender Table",
+        "hex": "#EEE8F5"
+      },
+      {
+        "role": "surface",
+        "name": "Paper White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "role": "accent",
+        "name": "Clear Violet",
+        "hex": "#7042A6"
+      },
+      {
+        "role": "text",
+        "name": "Aubergine Ink",
+        "hex": "#302139"
+      },
+      {
+        "role": "muted",
+        "name": "Stem Green",
+        "hex": "#315B45"
+      }
+    ],
+    "fontFaces": [
+      {
+        "family": "Bricolage Grotesque",
+        "weight": "400",
+        "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Bricolage Grotesque",
+        "weight": "500",
+        "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Bricolage Grotesque",
+        "weight": "600",
+        "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Bricolage Grotesque",
+        "weight": "700",
+        "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "400",
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "500",
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "600",
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "700",
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      }
+    ],
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><path fill=\"#7042A6\" d=\"M88 14C81 35 37 49 34 85C31 112 50 135 77 146C107 139 127 113 126 88C125 58 103 34 88 14Z\"/><path fill=\"#EEE8F5\" d=\"M77 146C66 114 71 79 88 43C81 86 88 114 100 132C93 139 85 143 77 146Z\"/></svg>",
+    "pages": [
+      {
+        "title": "Brand guidelines",
+        "summary": "Floristería ficticia de demostración en Medellín para elegir flores y una entrega con claridad.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Brand guidelines · Proposed demonstration identity"
+          },
+          {
+            "title": "Cover composition",
+            "text": "Use mixed-case typography, one complete petal and a quiet lower margin. Do not introduce bouquet photography."
+          }
+        ],
+        "id": "brand-page-1",
+        "layout": "cover"
+      },
+      {
+        "title": "The Brand",
+        "summary": "Open this chapter on #7042A6 with white type. Introduce the wrapping table as the organizing idea, not as a claim about real premises.",
+        "examples": [
+          {
+            "title": "Flores para elegir con claridad",
+            "text": "Un arreglo reconocible. Un precio visible. Una entrega de demostración elegida paso a paso."
+          }
+        ],
+        "id": "brand-page-2",
+        "layout": "divider"
+      },
+      {
+        "title": "Welcome",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Required site notice",
+            "text": "Negocio ficticio: arreglos, imágenes, precios y condiciones de ejemplo."
+          },
+          {
+            "title": "Notice placement",
+            "text": "Show the notice exactly once on each website page, in a readable footer or closing block. Medellín, products and prices are supplied examples."
+          },
+          {
+            "title": "Demonstration boundary",
+            "text": "Review and confirmation must explain real demonstration storage without payments, external messages or real deliveries."
+          }
+        ],
+        "id": "brand-page-3",
+        "layout": "content"
+      },
+      {
+        "title": "Index",
+        "summary": "Use a left-aligned editorial index with page numbers on a common edge. Group chapters by purpose rather than repeating decorative cards.",
+        "examples": [
+          {
+            "title": "Identity · 05–15",
+            "text": "Definition, purpose, voice and the Pétalo Norte logo system."
+          },
+          {
+            "title": "Visual language · 16–29",
+            "text": "Typography, layout, palette, icons and original vector imagery."
+          },
+          {
+            "title": "Applications · 30–49",
+            "text": "Design studies for the catalog, demonstration orders, private panel and physical materials."
+          }
+        ],
+        "id": "brand-page-4",
+        "layout": "content"
+      },
+      {
+        "title": "Defining",
+        "summary": "Define the identity through a complete arrangement, a continuous lavender plane and a connected working edge. Always distinguish the inspected specimen from the selected order.",
+        "examples": [
+          {
+            "title": "Inspecting",
+            "text": "Estás viendo Brisa · Alstroemerias blancas, follaje y papel lavanda."
+          },
+          {
+            "title": "Choosing",
+            "text": "Tu selección · Brisa × 1. Puedes seguir explorando antes de revisar."
+          }
+        ],
+        "id": "brand-page-5",
+        "layout": "content"
+      },
+      {
+        "title": "Vision & Mission",
+        "summary": "Express the supplied project purpose, not an invented corporate ambition. Make identification, price and delivery choice clear before asking for personal information.",
+        "examples": [
+          {
+            "title": "Project purpose",
+            "text": "Elegir flores y una entrega con claridad."
+          },
+          {
+            "title": "Practical expression",
+            "text": "Consulta el arreglo, revisa el precio y elige una fecha y una franja disponibles."
+          }
+        ],
+        "id": "brand-page-6",
+        "layout": "content"
+      },
+      {
+        "title": "Brand Values",
+        "summary": "Treat clarity, continuity and care as proposed design principles, not verified company values. Translate each principle into visible interface behavior.",
+        "examples": [
+          {
+            "title": "Clarity",
+            "text": "Brisa · $85.000 COP · Estado de disponibilidad junto al precio."
+          },
+          {
+            "title": "Continuity",
+            "text": "El mismo arreglo vectorial acompaña la selección, la revisión y el pedido guardado."
+          },
+          {
+            "title": "Care",
+            "text": "Conservamos tu selección. Revisa la disponibilidad actual antes de continuar."
+          }
+        ],
+        "id": "brand-page-7",
+        "layout": "content"
+      },
+      {
+        "title": "Tone of Voice",
+        "summary": "Write the customer journey in warm, direct Spanish. Name the action and its result; avoid superlatives, urgency tactics and claims of real fulfillment.",
+        "examples": [
+          {
+            "title": "Use",
+            "text": "Elige una fecha y una franja para tu pedido de demostración."
+          },
+          {
+            "title": "Avoid",
+            "text": "Do not write “Entrega garantizada” or “Las mejores flores de Medellín”. Neither claim belongs to this project."
+          },
+          {
+            "title": "Recovery",
+            "text": "Esta franja ya no está disponible. Elige otra sin perder los datos que ingresaste."
+          }
+        ],
+        "id": "brand-page-8",
+        "layout": "content"
+      },
+      {
+        "title": "Logo",
+        "summary": "Introduce the logo system on white. Pair the upward petal with the exact name Pétalo Norte; keep botanical illustrations separate from the signature.",
+        "examples": [
+          {
+            "title": "Chapter specimen",
+            "text": "Pétalo Norte"
+          },
+          {
+            "title": "Signature rule",
+            "text": "One petal, one name. Never place Brisa, Pulso or Claro inside the logo lockup."
+          }
+        ],
+        "id": "brand-page-9",
+        "layout": "divider"
+      },
+      {
+        "title": "Logo overview",
+        "summary": "The original asymmetric petal suggests upward growth and folded paper. Its lavender fold is part of the geometry, not a highlight effect.",
+        "examples": [
+          {
+            "title": "Full signature",
+            "text": "Use the petal beside Pétalo Norte in the website header, with both elements vertically centered."
+          },
+          {
+            "title": "Compact signature",
+            "text": "Use the petal alone for application icons. Keep the complete contour visible."
+          }
+        ],
+        "id": "brand-page-10",
+        "layout": "logo"
+      },
+      {
+        "title": "Primary logo",
+        "summary": "Render Pétalo Norte separately in Bricolage Grotesque 700. Use mixed case, retain the accent and keep spacing compact without compressing letterforms.",
+        "examples": [
+          {
+            "title": "Header lockup",
+            "text": "A 32 px symbol with a 24 px name and a 12 px gap suits the compact header; the home-link target remains at least 44 px."
+          },
+          {
+            "title": "Name integrity",
+            "text": "Always write Pétalo Norte. Never substitute Petalo Norte, PÉTALO NORTE or a name embedded in the symbol SVG."
+          }
+        ],
+        "id": "brand-page-11",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo Safezone",
+        "summary": "Define x as one quarter of the visible symbol height. Leave at least x around the complete lockup; increase this space beside dense controls or illustration.",
+        "examples": [
+          {
+            "title": "Header spacing",
+            "text": "A 32 px visible petal requires at least 8 px of clear space around the signature, separate from its touch-target padding."
+          },
+          {
+            "title": "Printed study",
+            "text": "For a 24 mm petal, reserve 6 mm clear space. Keep paper folds, trim edges and dedication text outside it."
+          }
+        ],
+        "id": "brand-page-12",
+        "layout": "logo"
+      },
+      {
+        "title": "Color combinations",
+        "summary": "Use violet and aubergine on lavender or white. On violet and aubergine applications, retain a lavender support surface behind the original symbol and use white name text.",
+        "examples": [
+          {
+            "title": "Light header",
+            "text": "Lavender table #EEE8F5, violet petal #7042A6 and aubergine Pétalo Norte #302139."
+          },
+          {
+            "title": "Dark cover",
+            "text": "Aubergine #302139 with a white name; the unchanged petal sits on a clear lavender support area."
+          },
+          {
+            "title": "Single-ink study",
+            "text": "Use the same outer contour in violet, with the fold knocked out to the supporting paper. Do not redraw the petal."
+          }
+        ],
+        "id": "brand-page-13",
+        "layout": "colors"
+      },
+      {
+        "title": "Brandmark",
+        "summary": "Keep the petal upright and preserve its asymmetric curves and connected fold. Use one shared source drawing for the header, favicon and application icons.",
+        "examples": [
+          {
+            "title": "Small symbol",
+            "text": "At 16–32 px, use the single-color interpretation on lavender, preserving the recognizable tip and outer contour."
+          },
+          {
+            "title": "Large symbol",
+            "text": "On a chapter opener, enlarge the complete petal with generous margins. Never crop its tip or base."
+          }
+        ],
+        "id": "brand-page-14",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo misuse",
+        "summary": "Do not rotate, stretch, outline or soften the symbol. Do not attach sales badges, floral illustrations or decorative shadows to the name.",
+        "examples": [
+          {
+            "title": "Incorrect orientation",
+            "text": "A sideways petal loses the upward direction of Pétalo Norte. Restore the original upright drawing."
+          },
+          {
+            "title": "Incorrect treatment",
+            "text": "No gradients, glow, photographic texture or bouquet-filled letters. Use explicit palette fills and real typography."
+          },
+          {
+            "title": "Incorrect placement",
+            "text": "Do not place the violet mark directly on violet. Restore its lavender support surface."
+          }
+        ],
+        "id": "brand-page-15",
+        "layout": "logo"
+      },
+      {
+        "title": "Typography",
+        "summary": "Introduce typography with one mixed-case headline and a short supporting line. Bricolage Grotesque provides character; Source Sans 3 carries practical information.",
+        "examples": [
+          {
+            "title": "Flores para elegir con claridad",
+            "text": "Explora Brisa, Pulso y Claro. Elige el arreglo que quieres incluir."
+          },
+          {
+            "title": "Divider setting",
+            "text": "Use a 56 px Bricolage Grotesque 700 heading and an 18 px Source Sans 3 400 introduction; keep both left aligned."
+          }
+        ],
+        "id": "brand-page-16",
+        "layout": "divider"
+      },
+      {
+        "title": "Typography overview",
+        "summary": "Use only the two supplied families. Distributable files are provided for both; a temporary system fallback is not a third identity typeface.",
+        "examples": [
+          {
+            "title": "Tu selección, a la vista",
+            "text": "Revisa los nombres, las cantidades y la entrega antes de guardar."
+          },
+          {
+            "title": "Family roles",
+            "text": "Bricolage Grotesque handles the name and headings. Source Sans 3 handles prices, labels, inputs, status text and buttons."
+          }
+        ],
+        "id": "brand-page-17",
+        "layout": "type"
+      },
+      {
+        "title": "Primary typeface",
+        "summary": "Set the name and main headings in Bricolage Grotesque 600–700. Let its character work through scale and spacing, not uppercase or condensed transformations.",
+        "examples": [
+          {
+            "title": "Una mesa, tres arreglos",
+            "text": "Brisa, Pulso y Claro tienen flores y envolturas distintas."
+          },
+          {
+            "title": "Display specimen",
+            "text": "Use 56 px on wide screens and 36 px on compact screens. Wrap at natural phrase boundaries without isolating “Norte”."
+          }
+        ],
+        "id": "brand-page-18",
+        "layout": "type"
+      },
+      {
+        "title": "Typography",
+        "summary": "Use 700 for the name and primary headings, 600 for secondary headings and emphasis, and 400 for body copy. Keep practical UI text upright; never synthesize bold or italics.",
+        "examples": [
+          {
+            "title": "Revisa antes de guardar",
+            "text": "La revisión no reserva existencias ni cupos de entrega."
+          },
+          {
+            "title": "Weight contrast",
+            "text": "Set “Brisa” in Bricolage Grotesque 700, “Cantidad” in Source Sans 3 600 and explanatory copy in Source Sans 3 400."
+          },
+          {
+            "title": "Style restraint",
+            "text": "Use Source Sans 3 600 for “Guardar pedido de demostración”. Do not use italics or all caps to signal urgency."
+          }
+        ],
+        "id": "brand-page-19",
+        "layout": "type"
+      },
+      {
+        "title": "Supporting type",
+        "summary": "Use Source Sans 3 at 18 or 16 px for reading and at least 16 px in inputs. Secondary labels stay at least 12 px; button text stays at least 14 px.",
+        "examples": [
+          {
+            "title": "Elige tu franja",
+            "text": "09:00–12:00 o 14:00–18:00, según disponibilidad para la fecha elegida."
+          },
+          {
+            "title": "Numeric setting",
+            "text": "Keep “$115.000 COP” together. Align quantities and prices consistently in order specifications and owner rows."
+          }
+        ],
+        "id": "brand-page-20",
+        "layout": "type"
+      },
+      {
+        "title": "Hierarchy",
+        "summary": "Lead with the page task, then arrangement name, price and action. Keep availability close to the action and explanatory copy below; never compete with the flower scene.",
+        "examples": [
+          {
+            "title": "Brisa",
+            "text": "Alstroemerias blancas, follaje y papel lavanda · $85.000 COP"
+          },
+          {
+            "title": "Scale sequence",
+            "text": "Use 56/36 px for page headings, 18 px for key descriptions, 16 px for controls and 12 px minimum for secondary references."
+          },
+          {
+            "title": "Action order",
+            "text": "“Pedir este arreglo” is primary on Inicio. “Ver catálogo” is secondary, with visibly less emphasis."
+          }
+        ],
+        "id": "brand-page-21",
+        "layout": "type"
+      },
+      {
+        "title": "Layouts",
+        "summary": "Build around one continuous lavender scene and a solid lower edge joined to both sides. Use the 4/8/12/16/24/32/48/72 px spacing scale; never overlay labels on flowers.",
+        "examples": [
+          {
+            "title": "Tu arreglo, completo",
+            "text": "Consulta el nombre y el precio en el borde de la mesa."
+          },
+          {
+            "title": "Wide and medium",
+            "text": "Center the scene at 1440 px. At 768 px, place it above the form; only short fields may share two columns."
+          },
+          {
+            "title": "390 × 640 study",
+            "text": "Budget 48 px navigation, 36 title, 112 scene, 144 specification/action and 136 date/slots. Errors extend the flow; taller screens enlarge the scene."
+          }
+        ],
+        "id": "brand-page-22",
+        "layout": "applications"
+      },
+      {
+        "title": "Colors",
+        "summary": "Introduce the palette with lavender as the field and violet as the decision color. Use aubergine for reading and white for paper-like surfaces.",
+        "examples": [
+          {
+            "title": "Core pairing",
+            "text": "Pétalo Norte uses #EEE8F5 behind the arrangement and #7042A6 for “Pedir este arreglo”."
+          },
+          {
+            "title": "Supporting pairing",
+            "text": "Use #FFFFFF for a review surface and #302139 for its specification. Reserve #315B45 for supporting botanical and status details."
+          }
+        ],
+        "id": "brand-page-23",
+        "layout": "divider"
+      },
+      {
+        "title": "Colors overview",
+        "summary": "Preserve all five supplied palette values. Aviso #875000 is an additional semantic warning token, not a replacement for Stem Green or a sixth brand surface.",
+        "examples": [
+          {
+            "title": "Surfaces",
+            "text": "Lavender Table #EEE8F5 · Paper White #FFFFFF."
+          },
+          {
+            "title": "Brand and text",
+            "text": "Clear Violet #7042A6 · Aubergine Ink #302139 · Stem Green #315B45. Muted text remains fully readable."
+          },
+          {
+            "title": "Warning",
+            "text": "Aviso #875000 accompanies “Esta franja está completa” with text and an icon, never color alone."
+          }
+        ],
+        "id": "brand-page-24",
+        "layout": "colors"
+      },
+      {
+        "title": "Using Tints",
+        "summary": "Use the supplied solid colors as the default, rather than inventing pale palette variants. Never reduce text opacity to create hierarchy or soften SVG contours with filters.",
+        "examples": [
+          {
+            "title": "Quiet surface",
+            "text": "Place secondary information on #EEE8F5 with full-strength #315B45 text instead of faded green."
+          },
+          {
+            "title": "Unavailable control",
+            "text": "Keep “Agotado” readable. Use a distinct boundary and disabled behavior instead of a barely visible violet button."
+          },
+          {
+            "title": "Contrast rule",
+            "text": "Keep control boundaries and focus indicators at least 3:1 against adjacent colors; use aubergine or violet on light surfaces."
+          }
+        ],
+        "id": "brand-page-25",
+        "layout": "colors"
+      },
+      {
+        "title": "Graphic Elements",
+        "summary": "Use connected paper folds, complete stems and a stable working edge. Each arrangement has one canonical vector composition; illustration colors do not become new interface tokens.",
+        "examples": [
+          {
+            "title": "Brisa",
+            "text": "White alstroemerias, foliage and lavender paper. Keep the entire bouquet visible on the lavender table."
+          },
+          {
+            "title": "Pulso",
+            "text": "Fuchsia gerberas, pink carnations and white paper. Preserve the same recognizable composition across selection and review."
+          },
+          {
+            "title": "Claro",
+            "text": "Sunflowers, foliage and violet paper. Flower colors belong to the artwork; drawn flower counts never define units sold."
+          }
+        ],
+        "id": "brand-page-26",
+        "layout": "divider"
+      },
+      {
+        "title": "Icons",
+        "summary": "Use simple, consistent interface icons with explicit labels. Keep the petal exclusive to identity; status icons must not resemble new logo variants.",
+        "examples": [
+          {
+            "title": "Date control",
+            "text": "Pair a calendar icon with “Fecha de entrega”. The full control target is at least 44 × 44 px."
+          },
+          {
+            "title": "Owner status",
+            "text": "Pair a check icon with “Entregado”; do not communicate the state through green alone."
+          },
+          {
+            "title": "Selection controls",
+            "text": "Use named actions such as “Retirar Brisa”. A small × without an accessible label is insufficient."
+          }
+        ],
+        "id": "brand-page-27",
+        "layout": "content"
+      },
+      {
+        "title": "Vector imagery",
+        "summary": "Replace the photography chapter with original vector art. No product photographs or raster imagery are planned; keep full contours, crisp fills and consistent species references.",
+        "examples": [
+          {
+            "title": "Main specimen",
+            "text": "Brisa appears complete and centered, with its paper base above the connected label edge. Do not crop petals for drama."
+          },
+          {
+            "title": "Material detail",
+            "text": "An independent vector study shows paper folds and stems. Label it “Detalle de envoltura”; never use it instead of the selected bouquet."
+          },
+          {
+            "title": "Saved appearance",
+            "text": "Order views retain the arrangement version saved with each line, rather than silently adopting a redesigned bouquet."
+          }
+        ],
+        "id": "brand-page-28",
+        "layout": "applications"
+      },
+      {
+        "title": "Moodboard",
+        "summary": "Use a vector-only direction board. Compare the supplied herbarium, shop-window and wrapping-table concepts; select the wrapping table for continuity from discovery to saving.",
+        "examples": [
+          {
+            "title": "Selected: wrapping table",
+            "text": "Lavender plane, complete Brisa, connected paper folds and a lower working edge holding the decision."
+          },
+          {
+            "title": "Alternatives",
+            "text": "Herbarium contributes editorial indexing; shop-window contributes frontal clarity. Neither replaces the selected continuous table."
+          },
+          {
+            "title": "Exclude",
+            "text": "No split hero, repeated product cards, cream-and-serif catalog, uppercase headlines or decorative animation."
+          }
+        ],
+        "id": "brand-page-29",
+        "layout": "applications"
+      },
+      {
+        "title": "Applications",
+        "summary": "All following applications are design studies. Carry the same name, petal, lavender plane and working edge across formats without implying launched channels or real fulfillment.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Tres arreglos para explorar. Una selección para revisar con claridad."
+          },
+          {
+            "title": "Shared composition",
+            "text": "Keep the specimen above the information edge. Scale the scene to the format instead of turning every application into a product card."
+          }
+        ],
+        "id": "brand-page-30",
+        "layout": "divider"
+      },
+      {
+        "title": "Social media icons",
+        "summary": "Design study: use the shared petal as the avatar, centered on lavender. Keep the contour inside the circular crop and omit the name at small sizes.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Arreglos florales de demostración."
+          },
+          {
+            "title": "Avatar crop",
+            "text": "Keep the petal within the central 60% of the square. Use #EEE8F5 as support and preserve the upward tip."
+          }
+        ],
+        "id": "brand-page-31",
+        "layout": "logo"
+      },
+      {
+        "title": "Social media profiles",
+        "summary": "Design study: pair the petal avatar with the exact display name and a factual Spanish bio. Do not invent handles, contact details, opening hours or a real storefront.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Floristería ficticia en Medellín. Explora Brisa, Pulso y Claro en un catálogo de demostración."
+          },
+          {
+            "title": "Profile composition",
+            "text": "Use a complete Brisa illustration in the banner, with its name on the lower edge. Keep the profile text outside the artwork."
+          }
+        ],
+        "id": "brand-page-32",
+        "layout": "applications"
+      },
+      {
+        "title": "Instagram posts",
+        "summary": "Design study: show one complete arrangement per post. Place its name and example price in a solid lower band; keep botanical descriptions brief and avoid promotional claims.",
+        "examples": [
+          {
+            "title": "Conoce Pulso",
+            "text": "Gerberas fucsias, claveles rosados y papel blanco. Precio de ejemplo: $115.000 COP."
+          },
+          {
+            "title": "Post composition",
+            "text": "Use a lavender field, generous side margins and a connected lower label band. No floating price sticker or petal crop."
+          },
+          {
+            "title": "Caption detail",
+            "text": "La ilustración identifica el arreglo; la cantidad de flores dibujadas no indica unidades vendidas."
+          }
+        ],
+        "id": "brand-page-33",
+        "layout": "applications"
+      },
+      {
+        "title": "Posters",
+        "summary": "Design study: use one headline, one complete bouquet and one information edge. Do not add a fabricated event, address, QR destination or delivery promise.",
+        "examples": [
+          {
+            "title": "Una mesa, tres posibilidades",
+            "text": "Brisa · Pulso · Claro. Arreglos de ejemplo de Pétalo Norte."
+          },
+          {
+            "title": "Poster hierarchy",
+            "text": "Place the headline above Brisa. Align the arrangement names and Pétalo Norte signature along the same lower edge."
+          }
+        ],
+        "id": "brand-page-34",
+        "layout": "applications"
+      },
+      {
+        "title": "T shirts and totes",
+        "summary": "Design study: use a single violet petal and restrained name placement. Preserve clear space across seams and folds; these are visual studies, not merchandise listings.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Flores para elegir con claridad."
+          },
+          {
+            "title": "Tote layout",
+            "text": "Center the petal above the name on white fabric. Keep the fold knocked out and leave at least one symbol-width below the handles."
+          },
+          {
+            "title": "T-shirt layout",
+            "text": "Use a small left-chest signature rather than a repeated logo pattern. Do not stretch the mark to match the garment width."
+          }
+        ],
+        "id": "brand-page-35",
+        "layout": "applications"
+      },
+      {
+        "title": "Bouquet wrapping",
+        "summary": "Design study: translate the connected fold motif into wrapping and labels. Retain each arrangement’s assigned paper color; do not claim material certifications or protective performance.",
+        "examples": [
+          {
+            "title": "Brisa",
+            "text": "Alstroemerias blancas, follaje y papel lavanda."
+          },
+          {
+            "title": "Paper assignment",
+            "text": "Brisa uses lavender paper, Pulso white paper and Claro violet paper. Keep each name legible on a separate supporting label."
+          },
+          {
+            "title": "Fold placement",
+            "text": "Align the label with a real fold edge in the study. Avoid loose diagonal rules that appear unrelated to the wrapping."
+          }
+        ],
+        "id": "brand-page-36",
+        "layout": "applications"
+      },
+      {
+        "title": "Delivery context",
+        "summary": "Design study: replace pickup-location messaging with the planned delivery context. Show Medellín only as the supplied example; do not suggest a shop address or pickup service.",
+        "examples": [
+          {
+            "title": "Elige tu entrega",
+            "text": "Medellín, como ubicación de ejemplo. Domicilio ilustrativo: $12.000 COP por pedido."
+          },
+          {
+            "title": "Date and slot panel",
+            "text": "Offer today through day 30 in America/Bogota. Show 09:00–12:00 and 14:00–18:00, with full or past slots identified and unavailable."
+          },
+          {
+            "title": "Capacity explanation",
+            "text": "Each date/slot allows six demonstration orders. One order uses one slot place, even when it contains several arrangements."
+          }
+        ],
+        "id": "brand-page-37",
+        "layout": "applications"
+      },
+      {
+        "title": "Order controls",
+        "summary": "Design study: give every control a visible label and a 44 px target. Use violet for the next valid action; preserve invalid input and explain recovery without changing the selection.",
+        "examples": [
+          {
+            "title": "Agregar Brisa",
+            "text": "Elige una cantidad entera mayor que cero. Puedes agregar otros arreglos antes de continuar."
+          },
+          {
+            "title": "Catalog interaction",
+            "text": "A valid selection moves the label to the shared edge and updates scene, reference, name, price and action together. Reduced motion updates immediately."
+          },
+          {
+            "title": "Owner controls",
+            "text": "Use “Marcar en preparación”, then “Marcar en camino”, then “Marcar entregado”. Catalog rows use “Pausar”, “Reactivar” and explicit stock saving."
+          }
+        ],
+        "id": "brand-page-38",
+        "layout": "applications"
+      },
+      {
+        "title": "Order receipt",
+        "summary": "Design study: confirmation reads the session-authorized saved order at /pedido/confirmacion/[id]. Use its frozen lines and vector versions; show one specification, not repeated summaries.",
+        "examples": [
+          {
+            "title": "Pedido de demostración guardado",
+            "text": "El guardado es real como demostración, pero no genera cobros, mensajes externos ni entregas."
+          },
+          {
+            "title": "Example specification",
+            "text": "Brisa × 1: $85.000 COP · Subtotal: $85.000 COP · Domicilio: $12.000 COP · Total: $97.000 COP · Estado: recibido."
+          },
+          {
+            "title": "Private continuation",
+            "text": "Place delivery and personal details below the edge. “Consultar estado” requests the server record; the base confirmation route offers recovery."
+          }
+        ],
+        "id": "brand-page-39",
+        "layout": "applications"
+      },
+      {
+        "title": "Return-visit card",
+        "summary": "Design study: adapt the rewards-card format into a simple arrangement reference card. Do not invent points, membership, discounts, stamps or redeemable benefits.",
+        "examples": [
+          {
+            "title": "¿Cuál quieres explorar?",
+            "text": "Brisa · Pulso · Claro. Encuentra cada arreglo por su nombre en el catálogo."
+          },
+          {
+            "title": "Card structure",
+            "text": "Use an editorial list on lavender with one small petal. The reverse may describe the three papers, without a loyalty grid."
+          }
+        ],
+        "id": "brand-page-40",
+        "layout": "applications"
+      },
+      {
+        "title": "Florist sign",
+        "summary": "Design study: use the primary signature on an abstract sign panel, not a pictured real storefront. Maintain generous clear space and a lavender support for the symbol.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Flores para elegir con claridad."
+          },
+          {
+            "title": "Sign composition",
+            "text": "Set the name in white on aubergine, beside the lavender-supported petal. No invented street number, opening hours or service guarantee."
+          }
+        ],
+        "id": "brand-page-41",
+        "layout": "applications"
+      },
+      {
+        "title": "Ordering website",
+        "summary": "Design study: organize the seven planned screens around discovery, review, private confirmation and owner work. Keep Spanish navigation direct, and never present a study as a working service.",
+        "examples": [
+          {
+            "title": "Pedir este arreglo",
+            "text": "Empieza con Brisa o explora el catálogo. Tu selección te acompaña al configurar el pedido."
+          },
+          {
+            "title": "Public journey",
+            "text": "/ opens Brisa; /catalogo supports #brisa, #pulso and #claro. Unknown references require an explicit choice. /pedido keeps configuration and review together."
+          },
+          {
+            "title": "Private workspace",
+            "text": "/duena/acceso leads to /duena/pedidos for today’s agenda and /duena/catalogo for pauses and stock. Keep private access separate from customer actions."
+          }
+        ],
+        "id": "brand-page-42",
+        "layout": "applications"
+      },
+      {
+        "title": "Favicon",
+        "summary": "Design study: derive the favicon, app/icon.svg and Apple icon from the same petal geometry. Keep a lavender support and replace starter symbols throughout the icon family.",
+        "examples": [
+          {
+            "title": "Pétalo Norte — Catálogo de arreglos",
+            "text": "Explora Brisa, Pulso y Claro."
+          },
+          {
+            "title": "Icon family",
+            "text": "Use the same upright petal for browser and application icons. Any compatibility raster is derived from that symbol, not a separate illustration."
+          }
+        ],
+        "id": "brand-page-43",
+        "layout": "logo"
+      },
+      {
+        "title": "Stationery",
+        "summary": "Design study: use an aubergine signature, a narrow lavender working edge and generous white space. Do not invent legal details or expose customer data in public examples.",
+        "examples": [
+          {
+            "title": "Selección de arreglos",
+            "text": "Brisa × 1 · Pulso × 1. Documento de ejemplo de Pétalo Norte."
+          },
+          {
+            "title": "Page structure",
+            "text": "Align the name, document heading and line descriptions to one left edge. Keep private order details out of public stationery studies."
+          }
+        ],
+        "id": "brand-page-44",
+        "layout": "applications"
+      },
+      {
+        "title": "Business cards",
+        "summary": "Design study: make a brand introduction card without fabricated contacts. Use the front for recognition and the reverse for the three arrangement names.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Brisa, Pulso y Claro. Tres arreglos de ejemplo para explorar."
+          },
+          {
+            "title": "Two-sided layout",
+            "text": "Front: violet petal and aubergine name on lavender. Reverse: white surface, editorial names and short botanical descriptions."
+          }
+        ],
+        "id": "brand-page-45",
+        "layout": "applications"
+      },
+      {
+        "title": "Gift message card",
+        "summary": "Design study: interpret the gift-card format as a dedication insert, not stored value or a voucher. Keep the message dominant and the signature secondary.",
+        "examples": [
+          {
+            "title": "Para acompañar tu día",
+            "text": "Un pequeño gesto, elegido para ti."
+          },
+          {
+            "title": "Message treatment",
+            "text": "Use Source Sans 3 on white with a small lavender edge. The planned dedication field is optional and allows up to 300 characters."
+          },
+          {
+            "title": "No redemption",
+            "text": "Do not add a balance, redemption code, expiry date or “Canjear” action. No gift-value functionality is planned."
+          }
+        ],
+        "id": "brand-page-46",
+        "layout": "applications"
+      },
+      {
+        "title": "Packaging seal",
+        "summary": "Design study: place the petal on a lavender seal across a paper fold. Treat it as identification, not evidence of freshness, tamper protection or real packing operations.",
+        "examples": [
+          {
+            "title": "Pétalo Norte",
+            "text": "Brisa · Papel lavanda."
+          },
+          {
+            "title": "Seal placement",
+            "text": "Keep the symbol upright and fully inside the seal. Put the arrangement name on an adjacent label, not inside the petal."
+          }
+        ],
+        "id": "brand-page-47",
+        "layout": "applications"
+      },
+      {
+        "title": "Customer support",
+        "summary": "Design study: provide recovery beside the affected action, not an invented chat or contact channel. Keep form values visible; never simulate saving when storage or session access is unavailable.",
+        "examples": [
+          {
+            "title": "Tu selección sigue aquí",
+            "text": "Las condiciones cambiaron. Compara los valores anteriores y actuales antes de revisar de nuevo."
+          },
+          {
+            "title": "No pudimos confirmar el guardado",
+            "text": "Recupera el resultado del mismo envío antes de editar o iniciar otro pedido. No lo enviaremos como un pedido nuevo automáticamente."
+          },
+          {
+            "title": "La sesión está bloqueada",
+            "text": "El navegador no permite guardar la sesión. Reintenta o abre el sitio directamente. Los datos del formulario siguen visibles."
+          }
+        ],
+        "id": "brand-page-48",
+        "layout": "applications"
+      },
+      {
+        "title": "Thank you",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Gracias por elegir con claridad",
+            "text": "Pétalo Norte · Una mesa compartida entre arreglo, etiqueta y decisión."
+          },
+          {
+            "title": "Sources",
+            "text": "User-supplied fictional brief, catalog, routes, palette and identity direction. Public research was not requested; no external identity sources are cited."
+          },
+          {
+            "title": "Type and artwork",
+            "text": "Supplied files: Bricolage Grotesque and Source Sans 3. Original proposed petal in this guide; bouquet compositions follow the supplied vector direction."
+          }
+        ],
+        "id": "brand-page-49",
+        "layout": "cover"
+      }
+    ]
+  }
+}
